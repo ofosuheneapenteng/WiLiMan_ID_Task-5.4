@@ -23,7 +23,7 @@ Multiple stochastic simulations were performed to quantify outbreak uncertainty 
 ## Author
 Ofosuhene Okofrobour Apenteng
 
-#Deliverable Output
+### Deliverable Output
 
 The project delivered a comprehensive spatial stochastic modelling framework for ASF preparedness, outbreak simulation, reproduction number estimation, intervention assessment, and sensitivity analysis. The work forms the basis of a scientific manuscript describing the methodology and findings.
 
